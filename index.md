@@ -1,11 +1,3 @@
----
-layout: home
-title: Home
----
-
-# Hello
-Welcome to my site.
-
 ## Data Analytics Projects
 
 ---
