@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: home
+title: home
 ---
+{{ site.title }}
+
 
 ## Data Analytics Projects
 
